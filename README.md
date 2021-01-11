@@ -56,6 +56,8 @@ cd dist && http-server
 - [`webpack-dev-server`](https://github.com/webpack/webpack-dev-server) - Development server for webpack
 - [`webpack-merge`](https://github.com/survivejs/webpack-merge) - Simplify development/production configuration
 - [`cross-env`](https://github.com/kentcdodds/cross-env) - Cross platform configuration
+- [`husky`](https://github.com/typicode/husky) - Husky improves your commits and more
+- [`lint-staged`] (https://github.com/okonet/lint-staged) Run linters against staged git files and don't let 💩 slip into your code base!
 
 ### Babel
 
@@ -95,7 +97,7 @@ cd dist && http-server
 
 ## Author
 
-- [Tania Rascia](https://www.taniarascia.com)
+- [Oleg Z]
 
 ## License
 

@@ -1,0 +1,7 @@
+/.git
+/.vscode
+/dist
+config
+node_modules
+.eslintrc.js
+.prettierrc.json
